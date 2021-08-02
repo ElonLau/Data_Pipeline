@@ -8,11 +8,11 @@ a third-party reseller submits their records of ticket sales for a new day. The 
 submitted as a CSV file. My task is to:
 - Write the table definition DDL and use it to create the sales table.
 - Read the CSV file and load the new sales records into the ticket sales table.
-
+<br/>
 - The command line result should be displayed as follows:
 <br/>
-Here are the most popular tickets in the past month:
-- The North American International Auto Show
-- Carlisle Ford Nationals
+Here are the most popular tickets in the past month: <br/>
+- The North American International Auto Show <br/>
+- Carlisle Ford Nationals <br/>
 - Washington Spirits vs Sky Blue FC
-
+<br/>
